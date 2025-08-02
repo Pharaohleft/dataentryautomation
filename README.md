@@ -1,4 +1,4 @@
-# Ex Chatbot
+# Ex Chatbot  -----  the repository name is incorrect
 
 Ex is a lightweight AI chatbot that simulates emotionally unpredictable conversations using randomized prompts and DistilGPT-2.
 
